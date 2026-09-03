@@ -4,6 +4,7 @@
   background: papayawhip;
   display: flex;
   justify-content: space-between;
+  align-items: center;
   padding: 8px;
 }
 
@@ -13,7 +14,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  margin: 4px;
 }
 
 ul {
@@ -21,8 +21,6 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 8px;
-
-
 }
 
 a {
